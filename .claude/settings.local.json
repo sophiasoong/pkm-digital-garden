@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api *)",
+      "WebFetch(domain:gist.github.com)",
+      "WebFetch(domain:gist.githubusercontent.com)",
+      "Bash(find \"/Users/sophiasoong\" -iname \"*philosophy*provides*\" -o -iname \"*philosophy*framework*\" -o -iname \"*philosophy*coherent*\" 2>/dev/null | head -20; echo \"---\"; find \"/Users/sophiasoong\" -name \"*.md\" -newer \"/Users/sophiasoong/Documents/Digital Garden/CLAUDE.md\" 2>/dev/null | grep -v \".obsidian\" | head -20)",
+      "Bash(cp \"/Users/sophiasoong/Documents/Obsidian Vault/Philosophy provides a clear and coherent framework for understanding any subject matter..md\" \"/Users/sophiasoong/Documents/Digital Garden/30 Zettelkasten \\(Human\\)/Philosophy provides a clear and coherent framework for understanding any subject matter..md\" && echo \"Copied.\")",
+      "Bash(cp \"/Users/sophiasoong/Documents/Obsidian Vault/How can we make learning fun and memorable?.md\" \"/Users/sophiasoong/Documents/Digital Garden/30 Zettelkasten \\(Human\\)/How can we make learning fun and memorable?.md\" && echo \"Copied.\")",
+      "Bash(cp \"/Users/sophiasoong/Documents/Obsidian Vault/How to stop overthinking? 3 questions.md\" \"/Users/sophiasoong/Documents/Digital Garden/30 Zettelkasten \\(Human\\)/How to stop overthinking? 3 questions.md\" && echo \"Copied.\")",
+      "Bash(gh auth *)",
+      "Bash(git --version)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}

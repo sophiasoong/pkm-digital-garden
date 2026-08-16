@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Obsidian workspace state (changes constantly, causes merge conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Obsidian sync metadata (if you use Obsidian Sync)
+.obsidian/sync.json
+
+# Keep everything else in .obsidian/ (plugins, themes, settings, snippets)
