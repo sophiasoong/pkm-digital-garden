@@ -8,6 +8,8 @@ related: []
 ## Main Idea
 
 *State the idea in one sentence — something a future reader could disagree with.*
+*Write only facts with clarity, coherence, and straightforwardness.*
+*Categorize note as unverified hypothesis, question or presumption.*
 
 ## Development
 

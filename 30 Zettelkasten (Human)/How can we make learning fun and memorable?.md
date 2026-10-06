@@ -1,19 +1,16 @@
 #Fun
 #Learning
-#Reading
 #Building
 #Communication
 
 Learning is fun when we can create interesting conversations
-- Reading: talk with authors from the past to the present, locally to globally
+- Reading: talk with authors from the past to the present
 - Communicating
-	- Real people from different backgrounds
-	- AI agents, an amorphous mind: help it build kindness and authenticity
+	- Learn basics from AI agents
+	- Reach out to human experts
 - Building: practice and validate our learning by outputs
 	- Writing
-	- Vibe coding
-	- Guitar
-
+	- Making bread
 Source:
 My feeling
 
