@@ -57,13 +57,53 @@ Digital Garden/
 
 ---
 
+## Vision
+
+The goal of my PKM system is to build a more realistic picture of the world, and create meaningful and positive connections with the world
+
+## Methods
+
+Zettlekasten: how I think personally? how does my current thinking link to previous thinking?
+
+wiki LLM: what are the building blocks of this topic? how do they link by contexts?
+
+Bridge: what are the possible conversations (confirm or conflict) about what I know and what I am yet to know (within sources)?
+
+## Constraints
+
+Time:
+- Zettlekasten: 30min
+- Wiki LLM: 30min
+
+Format:
+- Zettlekasten: Keep note (fleeting) + handwriting (permanent)
+- Wiki LLM: web-clip
+
+## Topics & Projects: 
+
+2026
+- Design -> Daily motion
+	- Graphic Design
+	- Motion Design
+- Sourdough bread -> Monthly baking
+
 ## The Two-Zone Idea
 
 **30 Zettelkasten** is where the human thinks. Notes here are written in the human's voice, developed over time, and represent the human's own synthesis. The agent supports but does not intrude.
 
+==💡When to write notes?
+==when I see an interesting experience or statement that is open to discussion 
+
 **20 LLM Wiki** is where the agent compiles. Pages here are generated from ingested sources — summaries, entity pages, concept pages — maintained systematically across sessions.
 
+====💡When to add sources? 
+==when I see an interesting information and want to understand the bigger picture 
+
 **35 Bridge** is where the two zones meet. When a Zettelkasten note is ready to be connected to the wiki, it moves or links through the Bridge. When the agent files an answer that's worth keeping, it lands in `35 Bridge/Queries/`. Evergreen notes here are permanent notes refined enough to anchor connections in both directions.
+
+==💡When to connect Zettlekastern with LLM Wiki?
+== when I want to chat with AI agents based on my thinking map
+
 
 ---
 

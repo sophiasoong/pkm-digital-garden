@@ -17,7 +17,7 @@ The instrument comes out of interviews with Google designers about what interfac
 
 The reported experiment had 229 US-based participants rank an M2 email app against its M3 counterpart. M3 won nearly everything: 81% said it more effectively guided attention, 92% found it more informative, 77% found it more obviously usable, 76% found its main function clearer, and 63% called it more creative and preferred its personality. One metric reversed — 65% thought the **M2** design was more playful, which the authors attribute to its colorful top app bar.
 
-Two caveats the authors state plainly deserve as much weight as the numbers, because the rest of the wiki's design material leans on claims this article is the apparent evidence for. First, the questions measure **first impressions, not behaviour** — the authors explicitly hand task completion off to usability testing. Second, comparing two entirely different designs is **exploratory** research: it provokes questions rather than answering them, and the attributions to specific elements (the larger Compose button, the expanded search bar) are offered as hypotheses, in those words.
+Two caveats the authors state plainly deserve as much weight as the numbers, because the rest of the wiki's design material leans on claims this article is the apparent evidence for. First, the questions measure **first impressions, not behavior** — the authors explicitly hand task completion off to usability testing. Second, comparing two entirely different designs is **exploratory** research: it provokes questions rather than answering them, and the attributions to specific elements (the larger Compose button, the expanded search bar) are offered as hypotheses, in those words.
 
 ## Key Points
 
@@ -58,7 +58,7 @@ Authors recorded as mentions rather than given pages: **Nico Thornley** (UX Rese
 
 ## Questions Raised
 
-- Does anything in the Material 3 guidance distinguish claims validated behaviourally from claims supported only by first-impression surveys? The foundations page draws no such line, and this article says the line exists.
+- Does anything in the Material 3 guidance distinguish claims validated behaviorally from claims supported only by first-impression surveys? The foundations page draws no such line, and this article says the line exists.
 - The playfulness reversal is treated as a curiosity and converted into advice (use color for playfulness). But it is also the one place the redesign lost. Was anything given up that the instrument wasn't built to detect?
 - Why 229 US-based participants only, and how far do style judgments — playfulness, friendliness, vibe — travel across cultures? The article reports the constraint without discussing it.
 - The three dimensions came from interviews with Google designers and users of Google products. Is hierarchy/utility/style a general account of what interfaces communicate, or a description of what this design system optimizes for?

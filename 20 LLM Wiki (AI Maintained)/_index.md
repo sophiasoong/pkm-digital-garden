@@ -66,5 +66,6 @@ Last updated: 2026-10-06 | Sources: 11 | Pages: 45
 ## Queries
 
 - [[Queries/lint-2026-10-01]] — Lint of `10 Inbox & Raw/`: processing status, folder organization, and governance drift. (2026-10-01)
+- [[Queries/tao-on-learning-math]] — Why does Tao think learning math matters now? He doesn't answer it; what he does argue, and what he doesn't. (2026-10-06)
 
 *Query pages live in `35 Bridge/Queries/` per `00 Meta/CLAUDE.md`, outside this folder — not counted in Pages above.*

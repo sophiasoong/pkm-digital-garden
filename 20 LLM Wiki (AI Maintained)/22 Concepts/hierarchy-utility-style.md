@@ -27,7 +27,7 @@ Introduced by [[23 Sources/material-design-testing-m3-2024]], where it is immedi
 
 The concept's value in this wiki is as a **measurement frame** rather than a design prescription, and it is the first of its kind here. Every other design page holds claims about what designers should do; this one holds a method for finding out whether any of it landed. That makes it the natural place to test the wiki's other design content, which is exactly what it does to [[22 Concepts/usability]].
 
-Its most useful property is a boundary the authors draw explicitly: these questions measure **first impressions, not behaviour**. Task completion is handed off to usability testing in so many words. That single distinction is what exposes the gap between Material's confident usability guidance and the research behind it.
+Its most useful property is a boundary the authors draw explicitly: these questions measure **first impressions, not behavior**. Task completion is handed off to usability testing in so many words. That single distinction is what exposes the gap between Material's confident usability guidance and the research behind it.
 
 Worth noting for provenance: the human's fleeting note `UI communicates in 3 areas` is their own synthesis of this framework, written before the source was ingested — the idea entered this vault through the human first.
 
@@ -43,7 +43,7 @@ Worth noting for provenance: the human's fleeting note `UI communicates in 3 are
 
 ## Tensions & Debates
 
-**The instrument is more careful than the guidance built on it.** The research is framed as exploratory, measuring first impressions, with element-level explanations offered as hypotheses. [[23 Sources/material-design-usability-2026]] converts this into unqualified instruction — larger key actions "dramatically increases usability," users "make fewer errors." Nothing in the research as described establishes the causal, behavioural claim. The tension is not between two positions but between a finding and its own restatement. Recorded in [[22 Concepts/usability]]. Unresolved as of 2026-10-05.
+**The instrument is more careful than the guidance built on it.** The research is framed as exploratory, measuring first impressions, with element-level explanations offered as hypotheses. [[23 Sources/material-design-usability-2026]] converts this into unqualified instruction — larger key actions "dramatically increases usability," users "make fewer errors." Nothing in the research as described establishes the causal, behavioral claim. The tension is not between two positions but between a finding and its own restatement. Recorded in [[22 Concepts/usability]]. Unresolved as of 2026-10-05.
 
 **Is style measurable by paired self-report?** Eleven adjectives against two screenshots produce clean percentages, and the cleanliness is itself a reason for suspicion: judgments of personality and vibe on first sight may not predict how an interface feels after a year of daily use. The source reports the method without defending it on this point.
 
@@ -53,5 +53,5 @@ Worth noting for provenance: the human's fleeting note `UI communicates in 3 are
 
 - Are the three dimensions general, or a description of what Material Design optimizes for? They were derived from Google designers and users of Google products.
 - Do style judgments travel? The reported experiment is 229 US-based participants, and playfulness, friendliness and vibe are the most plausibly culture-bound measures in the set.
-- The framework measures what an interface communicates but not whether the communication was *correct* — whether the design that reads as more informative is in fact better to use. The authors concede this by routing behaviour to usability testing, which leaves the two halves unjoined.
+- The framework measures what an interface communicates but not whether the communication was *correct* — whether the design that reads as more informative is in fact better to use. The authors concede this by routing behavior to usability testing, which leaves the two halves unjoined.
 - What happened in the other sample contexts? The article says these questions were asked "across a breadth of experiences" but reports one email-app comparison.

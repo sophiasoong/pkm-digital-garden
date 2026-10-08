@@ -58,7 +58,8 @@ Well-supported means two or more independent sources here, which is a low bar th
 - **Design cluster is vendor-dominated.** Google and Apple describing their own design languages, plus one independent designer. No academic perception research, no critical voice, no practitioner who dislikes any of it.
 - **Philosophy cluster is three sources and no modern treatment.** Stoicism via a content channel, Taoism via Le Guin, Blake via four lines. Nothing contemporary, nothing critical of any of it.
 - **The cross-cluster thesis rests on one accidental convergence.** The Tao/Stoic agreement on failure is the only place the clusters actually touch on substance. One connection is a promising coincidence, not a thesis.
-- **No query pages since 2026-10-01.** The only thing in `35 Bridge/Queries/` is a lint report. Eleven sources have produced no filed answers, which suggests the QUERY operation is underused relative to INGEST.
+- **Nothing on mathematics education.** Surfaced by [[Queries/tao-on-learning-math]]: asked why Tao thinks learning mathematics matters now, the wiki found he never addresses it, and no other source does either. Ono comes closest but is about benchmarks, admissions and who gets identified as talented — selection, not teaching [[22 Concepts/benchmark-critique]]. The one education-adjacent claim the wiki holds, Tao's standards paradox, is asserted from personal experience by a single mathematician and would be exactly the kind of thing education research has studied.
+- **QUERY is underused relative to INGEST.** Eleven sources have produced one filed answer and one lint report. The first real query immediately turned up a gap no amount of page-by-page ingesting had named, which is an argument for asking the wiki questions more often than it currently gets asked.
 
 ## What to Investigate Next
 

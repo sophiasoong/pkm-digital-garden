@@ -58,7 +58,7 @@ The source treats accessibility as a component within usability work (e.g., colo
 **The size claim outruns its evidence.** [[23 Sources/material-design-usability-2026]] states without qualification that larger key actions "dramatically increases usability and makes products more efficient," that users "make fewer errors," and that products become "more learnable." It cites no study. [[23 Sources/material-design-testing-m3-2024]], published by the same team, is the research it appears to rest on, and it does not support the claim as worded:
 
 - It is a **preference comparison between two whole designs** (Material 2 vs Material 3, an email app, 229 US-based participants), not an isolation of element size. Four changes differed simultaneously — button size and label, name prominence, search treatment, and the top app bar's color.
-- Its measures are **first impressions, not behaviour.** The authors route task completion elsewhere in as many words: "That's what usability tests are for." Fewer errors and better learnability are behavioural outcomes the instrument was not built to detect.
+- Its measures are **first impressions, not behavior.** The authors route task completion elsewhere in as many words: "That's what usability tests are for." Fewer errors and better learnability are behavioral outcomes the instrument was not built to detect.
 - The authors label the work **exploratory**, say it "doesn't give us all the answers," and offer the Compose button explanation as a hypothesis — "We hypothesize these changes make it more visible with a more obvious function."
 
 So the finding is real but narrower than its restatement: participants *preferred* and *perceived as clearer* a design in which the primary action was larger, among other changes. The error, satisfaction and learnability claims are an extrapolation. This replaces the open question previously logged on this page. Unresolved as of 2026-10-05, in the sense that no source closes the gap — though the gap itself is now documented rather than suspected.
@@ -88,8 +88,8 @@ One live question not resolved by any of these sources: how do these tactics pri
 
 ## Open Questions
 
-- ~~What is the actual evidence base for the size→usability claim?~~ **Answered 2026-10-05** by [[23 Sources/material-design-testing-m3-2024]]: a paired-preference study of first impressions, not a behavioural result. See Tensions & Debates.
-- Does any Material Design guidance distinguish claims validated behaviourally from claims supported only by first-impression surveys? Its own research arm draws that line; the foundations page does not.
+- ~~What is the actual evidence base for the size→usability claim?~~ **Answered 2026-10-05** by [[23 Sources/material-design-testing-m3-2024]]: a paired-preference study of first impressions, not a behavioral result. See Tensions & Debates.
+- Does any Material Design guidance distinguish claims validated behaviorally from claims supported only by first-impression surveys? Its own research arm draws that line; the foundations page does not.
 - Do these tactics generalize beyond consumer-app contexts (e.g., dense data dashboards, professional tools) or are they tuned specifically for Material Design's typical use cases?
 - How does Material Design's operational definition of usability compare to Nielsen Norman Group's own primary material, once that's ingested directly rather than secondhand?
 - Is there a vendor that shipped an expressive visual default and did *not* subsequently retreat? Two cases is a pattern worth testing rather than trusting, and the wiki has no counter-case either way.
